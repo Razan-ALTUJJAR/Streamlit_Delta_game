@@ -1,4 +1,4 @@
 # Streamlit_Delta_game
-- [if you want to enjoy the site click me]([[https://delta-game.streamlit.app](https://development-ftcngws4nxrezjdsgeye3y.streamlit.app/)]([https://development-ftcngws4nxrezjdsgeye3y.streamlit.app/)](https://development-ftcngws4nxrezjdsgeye3y.streamlit.app/))
+- [if you want to enjoy the site click me](https://development-ftcngws4nxrezjdsgeye3y.streamlit.app/)[https://development-ftcngws4nxrezjdsgeye3y.streamlit.app/]
 
 
